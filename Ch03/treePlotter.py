@@ -85,4 +85,4 @@ def retrieveTree(i):
                   ]
     return listOfTrees[i]
 
-#createPlot(thisTree)
+# createPlot(retrieveTree(0))

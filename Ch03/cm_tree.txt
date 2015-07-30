@@ -1,0 +1,32 @@
+(dp0
+S'profession'
+p1
+(dp2
+S'gm'
+p3
+S'liver'
+p4
+sS'engineer'
+p5
+(dp6
+S'reader'
+p7
+(dp8
+I0
+S'empty'
+p9
+sI1
+S'fake hacker'
+p10
+sssS'sale'
+p11
+g4
+sS'founder'
+p12
+S'boss'
+p13
+sS'phd'
+p14
+S'liver, fake hacker'
+p15
+ss.
